@@ -1,6 +1,6 @@
 # SocialLite
 
-A full-stack social media web application built as a capstone project for **COMP 531 (Software Engineering Methodology)** at Rice University.
+A full-stack social media web application built as a capstone project for **COMP 531 (Web Development and Design)** at Rice University.
 
 SocialLite lets users create accounts, post articles/updates with images, comment on posts, follow other users, and manage a personal profile — with support for both traditional username/password login and Google OAuth.
 
